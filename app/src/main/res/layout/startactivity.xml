@@ -102,7 +102,7 @@
                                 android:src="@mipmap/videocutter"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -142,7 +142,7 @@
                                 android:src="@mipmap/videocompressor"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -182,7 +182,7 @@
                                 android:src="@mipmap/videotomp3"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -226,7 +226,7 @@
                                 android:src="@mipmap/audiovideomixer"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -266,7 +266,7 @@
                                 android:src="@mipmap/videomute"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -306,7 +306,7 @@
                                 android:src="@mipmap/videojoiner"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -359,7 +359,7 @@
                                 android:src="@mipmap/videotoimage"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -399,7 +399,7 @@
                                 android:src="@mipmap/videoconverter"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -438,7 +438,7 @@
                                 android:src="@mipmap/fastmotionvideo"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -483,7 +483,7 @@
                                 android:src="@mipmap/slowmotionvideo"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -523,7 +523,7 @@
                                 android:src="@mipmap/videocropper"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -563,7 +563,7 @@
                                 android:src="@mipmap/videotogif"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -609,7 +609,7 @@
                                 android:src="@mipmap/videorotate"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -649,7 +649,7 @@
                                 android:src="@mipmap/videomirror"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -688,7 +688,7 @@
                                 android:src="@mipmap/videosplitter"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -734,7 +734,7 @@
                                 android:src="@mipmap/videoresvers"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -774,7 +774,7 @@
                                 android:src="@mipmap/slideshowmaker"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -811,7 +811,7 @@
                                 android:src="@mipmap/videocollage"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -851,7 +851,7 @@
                                 android:src="@mipmap/audiocompressor"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -898,7 +898,7 @@
                                 android:src="@mipmap/audiojoiner"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -938,7 +938,7 @@
                                 android:src="@mipmap/mp3cutter"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"
@@ -986,7 +986,7 @@
                                 android:src="@mipmap/videowatermaker"
                                 app:tint="@color/image_text" />
 
-                            <com.androworld.allinonevideoeditor.MetaFont
+                            <com.vidi.ai.videoeditor.MetaFont
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:gravity="center"

@@ -12,7 +12,7 @@
         android:background="@color/colorPrimaryDark"
         android:padding="10dp">
 
-        <com.androworld.allinonevideoeditor.CustomTextView
+        <com.vidi.ai.videoeditor.CustomTextView
             android:id="@+id/DailogName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -35,7 +35,7 @@
         android:background="@drawable/input_field_bg"
         android:orientation="vertical">
 
-        <com.androworld.allinonevideoeditor.CustomTextView
+        <com.vidi.ai.videoeditor.CustomTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="25dp"
@@ -44,7 +44,7 @@
             android:textColor="@color/textColor"
             android:textSize="16sp" />
 
-        <com.androworld.allinonevideoeditor.CustomEditText
+        <com.vidi.ai.videoeditor.CustomEditText
             android:id="@+id/message"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -54,7 +54,7 @@
             android:background="@drawable/input_field_bg"
             android:padding="10dp" />
 
-        <com.androworld.allinonevideoeditor.CustomTextView
+        <com.vidi.ai.videoeditor.CustomTextView
             android:id="@+id/sendBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

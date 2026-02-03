@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Video Editor</string>
+    <string name="app_name">VidiAI</string>
 
     <string name="appid">ca-app-pub-3940256099942544~3347511713</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
@@ -14,7 +14,7 @@
     <string name="AudioJoiner">AudioJoiner</string>
     <string name="AudioVideoMixer">AudioVideoMixer</string>
     <string name="FastMotionVideo">FastMotionVideo</string>
-    <string name="MainFolderName">VEditor</string>
+    <string name="MainFolderName">VidiAI</string>
     <string name="PhotoToVideo">PhotoToVideo</string>
     <string name="SlowMotionVideo">SlowMotionVideo</string>
     <string name="VideoCollage">VideoCollage</string>

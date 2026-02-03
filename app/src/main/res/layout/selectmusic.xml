@@ -28,7 +28,7 @@
                 android:src="@drawable/ic_back"
                 android:tint="#ffffff" />
 
-            <com.androworld.allinonevideoeditor.MetaFont
+            <com.vidi.ai.videoeditor.MetaFont
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"

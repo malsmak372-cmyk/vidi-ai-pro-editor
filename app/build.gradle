@@ -5,7 +5,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.androworld.allinonevideoeditor"
+        applicationId "com.vidi.ai.videoeditor"
         minSdkVersion 24
         targetSdkVersion 29
         versionCode 1
@@ -88,6 +88,9 @@ dependencies {
 
     implementation 'com.arthenica:mobile-ffmpeg-full:4.4.LTS'
     implementation 'com.arthenica:smart-exception-java:0.1.0'
+    // AI & Machine Learning (MediaPipe)
+    implementation 'com.google.mediapipe:tasks-vision:0.10.0'
+    implementation 'com.google.mediapipe:tasks-audio:0.10.0'
 
     implementation 'com.google.android.gms:play-services-ads:19.3.0'
 
