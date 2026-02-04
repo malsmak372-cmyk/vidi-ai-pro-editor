@@ -32,6 +32,10 @@
     <string name="VideoToImage">VideoToImage</string>
     <string name="VideoToMP3">VideoToMP3</string>
     <string name="VideoWatermark">VideoWatermark</string>
+    <string name="VideoEnhance">VideoEnhance</string>
+    <string name="NoiseReduction">NoiseReduction</string>
+    <string name="CinematicFilter">CinematicFilter</string>
+    <string name="ChromaKey">ChromaKey</string>
     <string name="alert_ok_button">OK</string>
     <string name="alert_title_failure">Error</string>
     <string name="alert_title_success">Success</string>

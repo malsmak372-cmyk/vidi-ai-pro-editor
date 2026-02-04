@@ -231,6 +231,38 @@ public class StartActivity extends AppCompatActivity implements AppBarLayout.OnO
                 finish();
     }
 
+    public void videoenhance(View view) {
+                Helper.ModuleId = 23;
+                Intent intent = new Intent(StartActivity.this, ListVideoAndMyAlbumActivity.class);
+                intent.setFlags(67108864);
+                startActivity(intent);
+                finish();
+    }
+
+    public void noisereduction(View view) {
+                Helper.ModuleId = 24;
+                Intent intent = new Intent(StartActivity.this, ListVideoAndMyAlbumActivity.class);
+                intent.setFlags(67108864);
+                startActivity(intent);
+                finish();
+    }
+
+    public void cinematicfilter(View view) {
+                Helper.ModuleId = 25;
+                Intent intent = new Intent(StartActivity.this, ListVideoAndMyAlbumActivity.class);
+                intent.setFlags(67108864);
+                startActivity(intent);
+                finish();
+    }
+
+    public void chromakey(View view) {
+                Helper.ModuleId = 26;
+                Intent intent = new Intent(StartActivity.this, ListVideoAndMyAlbumActivity.class);
+                intent.setFlags(67108864);
+                startActivity(intent);
+                finish();
+    }
+
     @Override public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.main, menu);
         return a;

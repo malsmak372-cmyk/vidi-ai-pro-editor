@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Legacy Support -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
 
-    <color name="colorPrimary">#ff2871</color>
-    <color name="colorPrimaryDark">#ff2871</color>
-    <color name="colorAccent">#ff2871</color>
+    <!-- Modern UI Colors -->
+    <color name="bg_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="accent_blue">#2196F3</color>
+    <color name="accent_purple">#BB86FC</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="card_bg">#252525</color>
+    <color name="divider">#333333</color>
 
-    <color name="Button_Normal_Color">#ff252525</color>
-    <color name="Button_Selected_Color">#ff0089ff</color>
-    <color name="Footer_Color">#ffffffff</color>
-    <color name="Header_Font_Color">#ff252525</color>
-    <color name="Sticker_BG_Color">#fff6f6f6</color>
-    <color name="Sticker_Border_Color">#ffffffff</color>
-    <color name="Sticker_Selected_Color">#ffe3e3e3</color>
-    <color name="Stroke">#ff0089ff</color>
-    <color name="black">#ff000000</color>
-    <color name="black_translucent">#50000000</color>
-    <color name="borderColor">#b0b4b9</color>
-    <color name="color_white_color">#ffffffff</color>
-    <color name="seekbargray">#ff838383</color>
-    <color name="textColor">#2d2c2c</color>
+    <!-- Existing Colors Mapping -->
+    <color name="Button_Normal_Color">#252525</color>
+    <color name="Button_Selected_Color">#2196F3</color>
+    <color name="Footer_Color">#1E1E1E</color>
+    <color name="Header_Font_Color">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
     <color name="trans">#00000000</color>
-    <color name="white">#ffffff</color>
-    <color name="whiteColor">#ffffff</color>
-    <color name="waveform_unselected">#535353</color>
-    <color name="waveform_unselected_bkgnd_overlay">#ffd6d7d7</color>
-    <color name="selection_border">#ffffff</color>
-    <color name="playback_indicator">#ffff66</color>
-    <color name="timecode">#000000</color>
-    <color name="timecode_shadow">#aa000000</color>
-    <color name="image">#ff2871</color>
-    <color name="image_text">#000000</color>
-    <color name="backgraunds">#ffffff</color>
-
-
+    <color name="backgraunds">#121212</color>
 </resources>
